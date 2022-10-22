@@ -1,9 +1,13 @@
 # 100-Days-Of-Code-Projects
 
-With this 100 Days Of Code programme I am getting my feet we in programming and coding. In this folder you will find all the projects I had to complete to master Python and programming basics.
+With this 100 Days Of Code programme I am getting my feet wet in programming and coding. 
 
-I look forward to what the journey will bring and making meaningful contributions.
+In this folder you will find all the projects I had to complete to master the basics.
 
-Please give me feedback or share with your insights that will help me.
+I look forward to making meaningful contributions with the skills and experience I gain from this programme.
 
-Thank you
+Please give me feedback or share with your insights that you know will be helpful.
+
+Best wishes
+
+Reinhardt
