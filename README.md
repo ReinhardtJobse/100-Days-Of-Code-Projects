@@ -6,8 +6,8 @@ In this folder you will find all the projects I had to complete to master the ba
 
 I look forward to making meaningful contributions with the skills and experience I gain from this programme.
 
-Please give me feedback or share with your insights that you know will be helpful.
+Please give me feedback or share your insights. That will be helpful.
 
-Best wishes
+Many thanks
 
 Reinhardt
